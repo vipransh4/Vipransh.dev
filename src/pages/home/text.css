@@ -9,5 +9,6 @@
 
 .video{
     height:7vw;
-    width:16vw
+    width:16vw;
+    flex-shrink:0;
 }
