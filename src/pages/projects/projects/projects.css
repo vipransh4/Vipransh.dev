@@ -1,0 +1,32 @@
+body {
+  scroll-behavior: smooth;
+}
+.decorate2{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("../photos/background.png");
+    background-size: cover;      
+    background-position: center;  
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.object{
+   position: absolute;
+   top: 40px;
+   right: 15px;
+}
+
+.aligning{
+    margin-top:1%;
+    font-size:65px;   
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+
+
