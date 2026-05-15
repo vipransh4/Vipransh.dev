@@ -3,17 +3,18 @@ import Dog from './components/Dog'
 import { Canvas } from '@react-three/fiber'
 
 const Resume=({setRoute})=> {
+  const base = process.env.PUBLIC_URL
   return (
     <>
       <main>
         <div className="images">
-          <img id='tomorrowland' src="/tommorowland.png" alt="" />
-          <img id='navy-pier' src="/navy-pier.png" alt="" />
-          <img id='msi-chicago' src="/msi-chicago.png" alt="" />
-          <img id='phone' src="/phone.png" alt="" />
-          <img id='kikk' src="/kikk.png" alt="" />
-          <img id='kennedy' src="/kennedy.png" alt="" />
-          <img id='opera' src="/opera.png" alt="" />
+          <img id='tomorrowland' src={`${base}/tommorowland.png`} alt="" />
+          <img id='navy-pier' src={`${base}/navy-pier.png`} alt="" />
+          <img id='msi-chicago' src={`${base}/msi-chicago.png`} alt="" />
+          <img id='phone' src={`${base}/phone.png`} alt="" />
+          <img id='kikk' src={`${base}/kikk.png`} alt="" />
+          <img id='kennedy' src={`${base}/kennedy.png`} alt="" />
+          <img id='opera' src={`${base}/opera.png`} alt="" />
         </div>
         <Canvas
           id='canvas-elem'
