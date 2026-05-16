@@ -15,7 +15,7 @@ import nature2 from '../photos/nature2.jpg';
 const Projects =({setRoute})=>{
 
     const joining=[
-        {name:'Riddlix',image:Riddlix},
+        {name:'Riddlix',image:Riddlix}, 
         {name:'Face-detector',image:face},
         {name:'Background-generator',image:color},
         {name:'Robofriend',image:robot},

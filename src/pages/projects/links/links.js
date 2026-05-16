@@ -4,7 +4,7 @@ import './link.css';
 const Links =({project})=>{
     const linking={
         Riddlix:'https://riddlix-a96p.onrender.com/',
-        Face_Detector:'https://face-recognition-es4t.onrender.com',
+        'Face-detector':'https://face-recognition-es4t.onrender.com',
         Background_generator:'https://github.com/vipransh4/Background-Genrator',
         robot:'https://vipransh4.github.io/Robotfriends/',
         html:'https://github.com/vipransh4/basic-html-page',
@@ -12,7 +12,7 @@ const Links =({project})=>{
     }
     const github={
         Riddlix:'https://github.com/godfather-creator/Riddlix',
-        Face_Detector:'https://github.com/vipransh4/faceRecogition',
+        'Face-detector':'https://github.com/vipransh4/faceRecogition',
         Background_generator:'https://github.com/vipransh4/Background-Genrator',
         robot:'https://github.com/vipransh4/Robotfriends',
         html:'https://github.com/vipransh4/basic-html-page',
