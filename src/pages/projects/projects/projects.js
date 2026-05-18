@@ -17,7 +17,7 @@ const Projects =({setRoute})=>{
     const joining=[
         {name:'Riddlix',image:Riddlix}, 
         {name:'Face-detector',image:face},
-        {name:'Background-generator',image:color},
+        {name:'Color-shift',image:color},
         {name:'Robofriend',image:robot},
         {name:'Basic-HTML-page',image:html},
         {name:'Basic-landing-page',image:nature},
