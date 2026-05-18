@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vipransh.dev/static/css/main.8a05e2c0.css",
+    "main.js": "/Vipransh.dev/static/js/main.9296d356.js",
+    "static/js/206.252b73fe.chunk.js": "/Vipransh.dev/static/js/206.252b73fe.chunk.js",
+    "static/media/video.mp4": "/Vipransh.dev/static/media/video.1ec65ff16201fc5f2737.mp4",
+    "static/media/background.png": "/Vipransh.dev/static/media/background.e97bafeb700f3a97fa8a.png",
+    "static/media/background-l.png": "/Vipransh.dev/static/media/background-l.1c97762eb9dc1fb2267b.png",
+    "static/media/robot.jpg": "/Vipransh.dev/static/media/robot.fa7be34942bff0c3ca80.jpg",
+    "static/media/html.jpg": "/Vipransh.dev/static/media/html.db684a0304a3564e5841.jpg",
+    "static/media/library.jpg": "/Vipransh.dev/static/media/library.2c39c25a10d26cb3550b.jpg",
+    "static/media/nature2.jpg": "/Vipransh.dev/static/media/nature2.ea2009e1afd57867cf32.jpg",
+    "static/media/color.jpg": "/Vipransh.dev/static/media/color.5a979328204a63dfb83a.jpg",
+    "static/media/nature.jpg": "/Vipransh.dev/static/media/nature.864425cb9f940d36575c.jpg",
+    "static/media/face.jpg": "/Vipransh.dev/static/media/face.d75514b44f3cda111445.jpg",
+    "static/media/brain.png": "/Vipransh.dev/static/media/brain.0613c9a6ffa051fbce97.png",
+    "index.html": "/Vipransh.dev/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.8a05e2c0.css",
+    "static/js/main.9296d356.js"
+  ]
+}
